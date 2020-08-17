@@ -25,6 +25,6 @@
 2013|关俊|qq:1587046460<br>guanjunace@foxmail.com|保送北邮，目前在学校划水|好好写代码，争取以后不写代码，Python大法好
 2013|王剑波|QQ：1623573120|保送浙大，目前在鹅厂AI lab实习，即将去东京大学求学|custacm niubility!
 2013|张玉超|||
-2012|曹雨|Tel: 15210131515<br>QQ: 1002453927<br>微信: caoyuonmyway<br>yalecyu@gmail.com|保送北邮，Airbnb搬砖完，现在WXG NLP研究员|:smile:
+2012|曹雨|Tel: 15210131515<br>微信: caoyuonmyway<br>yalecyu@gmail.com|保送北邮<br>Airbnb搬砖完<br>微信 NLP研究员|:smile:
 
 排序按年级降序，同年级按姓名拼音升序。
