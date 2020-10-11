@@ -22,7 +22,7 @@
 2014|容运棋|微信qi351653097<br>qq351653097||加油
 2014|王鲁月||保送北大，~~头条AI lab实习ing~~|
 2014|肖鹏|QQ：645124937<br>微信:nonoaxp|Pony.ai搬砖ing，帽爷的粉丝|帽爷天下第一！！！、
-2013|关俊|qq:1587046460<br>guanjunace@foxmail.com|保送北邮，目前在学校划水|好好写代码，争取以后不写代码，Python大法好
+2013|关俊|qq:1587046460<br>guanjunace@foxmail.com|保送北邮，目前在[地平线](https://www.horizon.ai/) 算法工程师|:smile:
 2013|王剑波|QQ：1623573120|保送浙大，目前在鹅厂AI lab实习，即将去东京大学求学|custacm niubility!
 2013|张玉超|||
 2012|曹雨|Tel: 15210131515<br>微信: caoyuonmyway<br>yalecyu@gmail.com|保送北邮<br>~~Airbnb Fullstack engineer~~<br>微信 NLP算法工程师|:smile:
