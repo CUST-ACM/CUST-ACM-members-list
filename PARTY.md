@@ -4,5 +4,5 @@
 ## Finished Parties
 |Site|Time|
 :----:|:----:|
-|GuangZhou|2020.?|
+|GuangZhou|2020.8|
 
