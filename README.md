@@ -32,5 +32,6 @@
 2013|王剑波|QQ：1623573120|保送浙大，目前在鹅厂AI lab实习，即将去东京大学求学|custacm niubility!
 2013|张玉超|||
 2012|曹雨|Tel: 15210131515<br>微信: caoyuonmyway<br>yalecyu@gmail.com|保送北邮<br>~~Airbnb Fullstack engineer~~<br>微信 NLP算法工程师|:smile:
+2010|唐杰|微信: tangjie0576<br>styletang@apache.org|~~阿里巴巴~~<br>Amazon|想回学校看雪:smile:
 
 排序按年级降序，同年级按姓名拼音升序。
