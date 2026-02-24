@@ -47,7 +47,7 @@
 2015|张晨晨|qq1959339538||所有战吼再来一遍
 2015|张钊杰|qq840502885||
 2015|朱雨田|微信16606681047<br>QQ464507141<br>zhuyt@ios.ac.cn|软件所计算机科学国家重点实验室（方向：形式化方法）|争取不要被卷没了
-2014|高志恺|zgao@wcu.edu 微信：cornetto_gzk 领英：www.linkedin.com/in/zhikai-gao/ | Western Carolina University 助理教授 ）|没事不要瞎读博
+2014|高志恺|zgao@wcu.edu <br> 领英：www.linkedin.com/in/zhikai-gao/ | Western Carolina University 助理教授 ）|没事不要瞎读博
 2014|容运棋|微信qi351653097<br>qq351653097||加油
 2014|王鲁月||保送北大，~~头条AI lab实习ing~~|
 2014|肖鹏|QQ：645124937<br>微信:nonoaxp|Pony.ai搬砖ing，帽爷的粉丝|帽爷天下第一！！！、
